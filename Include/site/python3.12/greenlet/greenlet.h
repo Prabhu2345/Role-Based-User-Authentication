@@ -1,6 +1,4 @@
-/* -*- indent-tabs-mode: nil; tab-width: 4; -*- */
 
-/* Greenlet object interface */
 
 #ifndef Py_GREENLETOBJECT_H
 #define Py_GREENLETOBJECT_H

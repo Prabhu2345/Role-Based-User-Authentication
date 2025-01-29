@@ -15,3 +15,4 @@ def create_app():
     app.register_blueprint(api_blueprint, url_prefix='/')  # Register routes
 
     return app
+    
